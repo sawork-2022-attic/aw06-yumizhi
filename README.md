@@ -21,3 +21,22 @@ Please finish the following tasks:
 
 
 And, of course, always try to make the system run as fast as possible.
+
+
+
+---
+
+ 使用的是`meta_All_Beauty.json`和`meta_Software.json`，在数据库中建立了相应的两张表，并按类似下面的方式存储
+
+![image-20220515163752004](README.assets/image-20220515163752004.png)
+
+
+
+在aw04中添加amazon数据库读取操作，将aw06中的Product读取并转化为aw04中的Product，结果如下：
+
+
+
+![image-20220515163351130](README.assets/image-20220515163351130.png)
+
+
+
